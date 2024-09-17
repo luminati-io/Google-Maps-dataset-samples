@@ -30,8 +30,8 @@ A Google Maps dataset sample of over 1000 businesses. Dataset was extracted usin
 
 And a lot more.
 
-This is a sample subset which is derived from the "Google Maps Profiles (public data)"
-dataset which includes more than <b>116,760,000 businesses</b>.
+This is a sample subset which is derived from the "Google Maps Businesses (public data)"
+dataset which includes more than <b>46,000,000 businesses</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
