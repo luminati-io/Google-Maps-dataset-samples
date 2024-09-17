@@ -8,25 +8,25 @@ A Google Maps dataset sample of over 1000 businesses. Dataset was extracted usin
 
 <h2>Data points included in this free dataset:</h2>
 
-```place_id```: A unique identifier for the place on Google Maps
-```name```: The name of the business
-```category```: The category or type of the business
-```address```: The physical address of the business
-```lat```: Latitude coordinate of the business location
-```lon```: Longitude coordinate of the business location
-```url```: URL pointing to the business on Google Maps
-```country```: The country where the business is located
-```phone_number```: The contact phone number for the business
-```main_image```: URL or identifier of the main image associated with the business
-```reviews_count```: The total number of reviews for the business
-```rating```: The average rating given by customers
-```reviews```: Reviews or comments left by customers
-```open_hours```: Operating hours of the business
-```open_hours_updated```: The operating hours that were last updated
-```price_range```: The price range associated with the business
-```services_provided```: List of services provided by the business
-```open_website```: A link or indication of whether the business has a website that can be visited
-```category_search_input```: The category search inputs that were used to get this result
+* ```place_id```: A unique identifier for the place on Google Maps
+* ```name```: The name of the business
+* ```category```: The category or type of the business
+* ```address```: The physical address of the business
+* ```lat```: Latitude coordinate of the business location
+* ```lon```: Longitude coordinate of the business location
+* ```url```: URL pointing to the business on Google Maps
+* ```country```: The country where the business is located
+* ```phone_number```: The contact phone number for the business
+* ```main_image```: URL or identifier of the main image associated with the business
+* ```reviews_count```: The total number of reviews for the business
+* ```rating```: The average rating given by customers
+* ```reviews```: Reviews or comments left by customers
+* ```open_hours```: Operating hours of the business
+* ```open_hours_updated```: The operating hours that were last updated
+* ```price_range```: The price range associated with the business
+* ```services_provided```: List of services provided by the business
+* ```open_website```: A link or indication of whether the business has a website that can be visited
+* ```category_search_input```: The category search inputs that were used to get this result
 
 And a lot more.
 
