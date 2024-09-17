@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Google Maps businesses</h2>
 
-![Google Maps dataset header](https://github.com/luminati-io/Google-Maps-dataset-samples/blob/main/Google-Maps-datasets.PNG)
+![Google Maps dataset header](https://github.com/luminati-io/Google-Maps-dataset-samples/blob/main/google-maps-datasets.PNG)
 
 A Google Maps dataset sample of over 1000 businesses. Dataset was extracted using the <b>Bright Data API</b>.
 
