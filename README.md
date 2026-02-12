@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Google Maps businesses</h2>
 
-![Google Maps dataset header](https://github.com/luminati-io/Google-Maps-dataset-samples/blob/main/google-maps-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/google-maps">
+   <img src="https://github.com/luminati-io/Google-Maps-dataset-samples/blob/main/google-maps-datasets.png" alt="google-maps datasets" />
+</a>
 
 A Google Maps dataset sample of over 1000 businesses. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -35,13 +37,17 @@ dataset which includes more than <b>46,000,000 businesses</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, google-maps S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full Google Maps dataset](https://brightdata.com/products/datasets/google-maps)</b>.
+
+<a href="https://brightdata.com/products/datasets/google-maps">
+   <img src="https://github.com/luminati-io/Google-Maps-dataset-samples/blob/main/dataset-promotions.png" alt="google-maps datasets" />
+</a>
 
 <h2>What are the Google Maps datasets use cases?</h2>
 
